@@ -1,0 +1,58 @@
+body
+{
+	background-color: #F4E2DE;
+}
+h1
+{
+	color: blue;
+	font-family: "arial black";
+	background-color: #181818;
+	font-size: 44px;
+	letter-spacing: 10px;
+	display: inline-block;
+	text-align: justify-all;
+}
+h2 
+{
+	color: red;
+	font-family: calibri;
+	font-style: italic;
+	font-weight: bold;
+	text-align: justify;
+}
+p 
+{
+	color: #123456;
+	font-family: tahoma;
+	text-align: justify;
+	font-size: 20px;
+}
+a
+{
+	text-decoration: none;
+}
+.tit_top1
+{
+	color:yellow;
+}
+.tit_divdahora
+{
+	background-color: purple;
+	height: 700px;
+	padding-top: 60px;
+	padding-left: 100px;
+	width: 1000px
+	border-radius 10px;
+}
+.bt_cta
+{
+	font-size: 24px;
+	background-color: blue;
+	color: #ffffff;
+	padding: 5px;
+}
+iframe
+{
+	border:solid blue 5px;
+	border-radius: 10px;
+}

@@ -1,0 +1,350 @@
+html
+{
+	scroll-behavior: smooth;
+}
+body
+{
+	background-color: #ffffff;
+	background-image: url(memphis.jpg);
+	height: 100%;
+	margin: auto;
+}
+h1
+{
+	display: block;
+	text-align: center;
+	color: white;
+}
+h2
+{
+	color: #404040;
+	font-family:"Trebuchet MS";
+	font-weight: bolder;
+	text-align: justify;
+	font-size: 175%;
+
+}
+.titulo
+{
+	font-family:"Cabin";
+	text-align: center;
+	width: 600px;
+	padding: 10px;
+	border: white solid 3px;
+	margin: auto;
+
+}
+p
+{
+	font-family:"Lato";
+	text-align: center;
+	margin: auto;
+	color: white;
+}
+.imagem_top5
+{
+	padding-top: 15px;
+	width: 800px;
+	margin: auto;
+}
+.imagem_top5 img
+{
+	width: 156.8px;
+	border-radius: 76.4px;
+}
+.top5
+{
+	margin: auto;
+	display: block;	
+	border-radius: 15px;
+}
+a
+{
+	text-decoration: none;
+	font-weight: 150%;
+
+}
+.lst_edit
+{
+	margin-top: 0;
+	margin-bottom: 0;
+	text-align: center;
+	font-family: Lato;
+	list-style: none;
+}
+iframe
+{
+	width: 800px;
+	height: 400px;
+	margin: auto;
+}
+.lst_top5 
+{
+	width: 1140px;
+	font-family: "Cabin";
+	margin: auto;
+	color: white;
+}
+.lst_top5 ol
+{
+	padding-top: 15px;
+	width: 280px;
+	margin: auto;
+	text-align: left;
+	padding-bottom: 30px;
+}
+.lst_top5 h2
+{
+	font-family: Cabin;
+	color: #181818;
+	background-color: white;
+	width: 800px;
+	display: block;
+	margin: auto;
+	text-align: center;
+	padding: 5px;
+}
+.progm_after
+{
+	color:#9a9aff;
+}
+.progm_ps
+{
+	color: #31a8ff;
+}
+.progm_premi
+{
+	color: #9c46e2;
+}
+.progm_vegas
+{
+	color:#3e6aff;
+}
+.progm_illu
+{
+	color:#ff9b00;
+}
+.progm_figma
+{
+	color:#0acf83;
+}
+.content
+{
+	background-color: #181818;
+	width: 1140px;
+	margin: auto;
+	padding-top: 15px;
+	padding-bottom: 15px;
+
+}
+a.cta_ae:link
+{
+	color: white;
+}
+a.cta_ae:visited
+{
+	color:#e2e2e2;
+}
+a.cta_ae:hover
+{
+	color: #9a9aff;
+}
+a.cta_ps:link
+{
+	color:#ffffff;
+}
+a.cta_ps:visited
+{
+	color: #e2e2e2;
+}
+a.cta_ps:hover
+{
+	color:#31a8ff;
+}
+a.cta_edit:link
+{
+	color: #e2e2e2;
+}
+a.cta_edit:visited
+{
+	color: #e2e2e2;
+}
+a.cta_edit:hover
+{
+	color:#9c46e2;
+}
+a.cta_illu:link
+{
+	color: white;
+}
+a.cta_illu:visited
+{
+	color:#e2e2e2;
+}
+a.cta_illu:hover
+{
+	color: #ff9b00;
+}
+a.cta_figma:link
+{
+	color: white;
+}
+a.cta_figma:visited
+{
+	color: #e2e2e2;
+}
+a.cta_figma:hover
+{
+	color:#0acf83;
+}
+.box_ae
+{
+	padding-top: 10px;
+	padding-right: 170px;
+	padding-left: 170px;
+	padding-bottom: 40px;
+	width: 800px;
+	margin: auto;
+}
+.box_ae h2
+{
+	background-color: #9a9aff;
+	color: white;
+	width: 780px;
+	padding: 10px;
+	font-family: Cabin;
+	text-align: center;
+	margin: auto;
+}
+.box_ps
+{
+	padding-top: 10px;
+	padding-right: 170px;
+	padding-left: 170px;
+	padding-bottom: 40px;
+}
+.box_ps h2
+{
+	background-color: #31a8ff;
+	color: white;
+	width: 780px;
+	padding: 10px;
+	font-family: Cabin;
+	text-align: center;
+	margin: auto;
+}
+.box_edit
+{
+	padding-top: 10px;
+	padding-right: 170px;
+	padding-left: 170px;
+	padding-bottom: 40px;
+}
+.box_edit h2
+{
+	background-color: #9c46e2;
+	color: white;
+	width: 780px;
+	padding: 10px;
+	font-family: Cabin;
+	text-align: center;
+	margin: auto;
+}
+.box_illu
+{
+	padding-top: 10px;
+	padding-right: 170px;
+	padding-left: 170px;
+	padding-bottom: 40px;
+}
+.box_illu h2
+{
+	background-color: #ff9b00;
+	color: white;
+	width: 780px;
+	padding: 10px;
+	font-family: Cabin;
+	text-align: center;
+	margin: auto;
+}
+.box_figma
+{
+	padding-top: 10px;
+	padding-right: 170px;
+	padding-left: 170px;
+	padding-bottom: 40px;
+}
+.box_figma h2
+{
+	background-color: #0acf83;
+	color: white;
+	width: 780px;
+	padding: 10px;
+	font-family: Cabin;
+	text-align: center;
+	margin: auto;
+}
+.p_introd
+{
+	padding-top: 10px;
+	display: block;
+	width: 800px;
+	text-align: center;
+	padding-bottom: 15px;
+}
+.botao1
+{
+	background-color: white;
+	color: #181818;
+	font-family: Lato;
+	padding: 10px;
+	text-decoration: none;
+	display: block;
+	width: 140px;
+	margin: auto;
+	text-align: center;
+}
+a.botao1:hover
+{
+	background-color: #5370ee;
+}
+a.cta_ad:hover
+{
+	opacity: 0.7;
+}
+a.cta_ap:hover
+{
+	opacity: 0.7;
+}
+a.cta_bt:hover
+{
+	opacity: 0.7;
+}
+a.cta_ai:hover
+{
+	opacity: 0.7;
+}
+a.cta_fig:hover
+{
+	opacity: 0.7;
+}
+.final
+{
+	font-family: Lato;
+	font-size: 12px;
+	font-weight: 70%;
+	padding-top: 35px;
+	text-align: right;
+	margin-right: 10px;
+	margin-bottom: 0;
+}
+@font-face
+{
+	font-family: Lato;
+	src: url(Lato-Regular.ttf)
+}
+@font-face
+{
+	font-family: Cabin;
+	src: url(Cabin-VariableFont_wdth\,wght.ttf)
+}
